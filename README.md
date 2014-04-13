@@ -1,3 +1,4 @@
+<pre>
 To Run
 
 Install SBT 0.13, available from http://www.scala-sbt.org/release/docs/Getting-Started/Setup.html
@@ -12,15 +13,15 @@ for create databse =>
  > create database slickdemo;
  
 You then need to clone this project
+git clone  https://github.com/satendrakumar06/slickwithpostgresql.git
 
-git clone  https://github.com/satendrakumar06/slickdemo.git
-
-Change into the slickdemo folder.
+Change into the slickwithpostgresql folder.
 
 Run the code example using SBT
-
 $ sbt run
 
 To edit the project in eclipse you can generate the required eclipse project files like this:
-
 $ sbt eclipse
+
+</pre>
+
